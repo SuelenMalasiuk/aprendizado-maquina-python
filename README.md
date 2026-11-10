@@ -17,6 +17,8 @@ O objetivo é explorar conceitos fundamentais de Inteligência Artificial, resol
 - Busca local;
 - Busca competitiva.
 
+  - Realizada atividade notebook colab - **Métodos de busca**
+
 ### Módulo 3 — Conhecimento, Raciocínio e Incertezas
 - Agentes baseados em conhecimento;
 - Ontologias;
@@ -30,6 +32,8 @@ O objetivo é explorar conceitos fundamentais de Inteligência Artificial, resol
 - Redes neurais artificiais;
 - Avaliação de resultados.
 
+  - Realizada atividade notebook colab - **Aprendizado Supervisionado**
+
 ### Módulo 5 — Aprendizado Não Supervisionado e por Reforço
 - Aprendizado não supervisionado;
 - Algoritmos de aprendizado não supervisionado;
@@ -37,6 +41,8 @@ O objetivo é explorar conceitos fundamentais de Inteligência Artificial, resol
 - Processos de decisão de Markov;
 - Programação dinâmica;
 - Diferença temporal.
+
+  - Realizada atividade notebook colab - **Aprendizado Não Supervisionado e por Reforço**
 
 ## 🛠️ Tecnologias e ferramentas
 
